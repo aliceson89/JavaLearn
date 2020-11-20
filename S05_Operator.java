@@ -1,5 +1,5 @@
 
-public class S04_Operator{
+public class S05_Operator {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
