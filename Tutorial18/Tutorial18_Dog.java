@@ -1,3 +1,5 @@
+package Tutorial18;
+
 public class Tutorial18_Dog extends Tutorial18_Animal{
     @Override
     void crying() {

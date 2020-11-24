@@ -1,3 +1,5 @@
+package Tutorial18;
+
 public class Tutorial18_Main extends Tutorial18_Player{
 
     public static void main (String arg[]){
